@@ -10,5 +10,6 @@ main()
 	y=temp;
 	printf(y);
 	printf("this is a test");
+	printf("this is second added");
 	return 0;
 }
