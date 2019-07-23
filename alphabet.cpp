@@ -5,5 +5,9 @@ main()
 {
 	int x=10;
 	int y=20;
+	int temp=n;
+	x=y;
+	y=temp;
+	printf(y);
 	return 0;
 }
