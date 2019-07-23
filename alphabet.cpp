@@ -9,5 +9,6 @@ main()
 	x=y;
 	y=temp;
 	printf(y);
+	printf("this is a test");
 	return 0;
 }
